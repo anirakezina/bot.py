@@ -8,17 +8,17 @@ import time
 
 ACCESS_TOKEN = str()
 DEBUG = True  # Without adding a category for the client and sending SMS
-IIKO_BIZ_IP = 'https://iiko.biz'
+IIKO_BIZ_IP = 'http://akiana-collcentr.iiko.it'
 IIKO_BIZ_LOGIN = 'akianacc'
 IIKO_BIZ_PASSWORD = '1Q2W3e4r'
 IIKO_BIZ_PORT = '9900'
 IIKO_IT_NAME = 'SUSHI_PIZZA'
-IIKO_SERVER_LOGIN = 'admin'
-IIKO_SERVER_PASSWORD = 'a94a8fe5ccb19ba61c4c0873d391e987982fbbd3'
+IIKO_SERVER_LOGIN = 'kezina'
+IIKO_SERVER_PASSWORD = '321'
 KITCHEN1 = 'first_kitchen_id'
 KITCHEN2 = 'second_kitchen_id'
 LATENESS_THRESHOLD_IN_MINUTES = 30
-ORGANIZATION_ID = 'organization_id'
+ORGANIZATION_ID = '1788259'
 PROMO_CATEGORY_ID = 'c8726b30-742b-48a4-af8b-1f4d03a88b4d'
 REPORT_TIMEZONE = 'Asia/Irkutsk'
 TELEGRAM_BOT_TOKEN = '5668645901:AAH-2iW1gro-F2Qdix-gLvyRmk6VJICGoP0'
