@@ -9,8 +9,8 @@ import time
 ACCESS_TOKEN = str()
 DEBUG = True  # Without adding a category for the client and sending SMS
 IIKO_BIZ_IP = 'https://iiko.biz'
-IIKO_BIZ_LOGIN = 'demoDelivery'
-IIKO_BIZ_PASSWORD = 'Pl1yFaKFCGvvJKi'
+IIKO_BIZ_LOGIN = 'akianacc'
+IIKO_BIZ_PASSWORD = '1Q2W3e4r'
 IIKO_BIZ_PORT = '9900'
 IIKO_IT_NAME = 'SUSHI_PIZZA'
 IIKO_SERVER_LOGIN = 'admin'
